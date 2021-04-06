@@ -1,6 +1,6 @@
 # Youtube clone with React
 
-🔗 hhttps://hwang-ji.github.io/youtube/
+🔗 https://hwang-ji.github.io/youtube/
 
 ---
 
