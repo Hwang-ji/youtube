@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-### seach
+### search
 
   <img width="700" alt="1" src="https://user-images.githubusercontent.com/79661326/113648354-77f2ef00-96c7-11eb-924a-c64c20a8222f.png">
 
