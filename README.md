@@ -11,3 +11,6 @@
 ---
 
 ## Screenshot
+
+<img width="1370" alt="1" src="https://user-images.githubusercontent.com/79661326/113647962-cb187200-96c6-11eb-98bd-ee4566fed934.png">
+<img width="1370" alt="2" src="https://user-images.githubusercontent.com/79661326/113647977-d1a6e980-96c6-11eb-9a54-e03433108094.png">
